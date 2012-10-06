@@ -8,6 +8,8 @@ This theme overrides the existing jQuery Mobile A - E swatches (and adds an F sw
 
 Make your Twitter Bootstrap theme complete by using Font Awesome icons found in the [jQuery Mobile Icon Pack](https://github.com/commadelimited/jQuery-Mobile-Icon-Pack).
 
+**Updated for jQuery Mobile 1.2!
+
 ## Example
 
 [View a simple demo of this theme](http://andymatthews.net/code/jQuery-Mobile-Bootstrap-Theme/)
