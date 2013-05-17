@@ -707,7 +707,7 @@
 }
 
 .ui-btn-up-e {
-	border: 1px solid #cccccc /*{e-bup-border}*/;
+	border: 1px solid #009bb7 /*{e-bup-border}*/;
 	background: #2F96B4 /*{e-bup-background-color}*/;
 	font-weight: bold;
 	color: #ffffff /*{e-bup-color}*/;
@@ -859,7 +859,7 @@
 }
 
 .ui-btn-up-f {
-	border: 1px solid #cccccc /*{f-bup-border}*/;
+	border: 1px solid #f28f00 /*{f-bup-border}*/;
 	background: #F89406 /*{f-bup-background-color}*/;
 	font-weight: bold;
 	color: #ffffff /*{f-bup-color}*/;
@@ -923,7 +923,7 @@
 
 /* Structure */
 
-/* links within "buttons" 
+/* links within "buttons"
 -----------------------------------------------------------------------------------------------------------*/
 
 a.ui-link-inherit {
@@ -1084,11 +1084,11 @@ a.ui-link-inherit {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
        only screen and (min--moz-device-pixel-ratio: 1.5),
        only screen and (min-resolution: 240dpi) {
-	
+
 	.ui-icon-plus, .ui-icon-minus, .ui-icon-delete, .ui-icon-arrow-r,
 	.ui-icon-arrow-l, .ui-icon-arrow-u, .ui-icon-arrow-d, .ui-icon-check,
 	.ui-icon-gear, .ui-icon-refresh, .ui-icon-forward, .ui-icon-back,
-	.ui-icon-grid, .ui-icon-star, .ui-icon-alert, .ui-icon-info, .ui-icon-home, .ui-icon-search, .ui-icon-searchfield:after, 
+	.ui-icon-grid, .ui-icon-star, .ui-icon-alert, .ui-icon-info, .ui-icon-home, .ui-icon-search, .ui-icon-searchfield:after,
 	.ui-icon-checkbox-off, .ui-icon-checkbox-on, .ui-icon-radio-off, .ui-icon-radio-on {
 		background-image: url(images/icons-36-white.png);
 		-moz-background-size: 776px 18px;
@@ -1186,7 +1186,7 @@ a.ui-link-inherit {
 }
 .ui-icon-checkbox-off,
 .ui-icon-radio-off {
-	background-color: transparent;	
+	background-color: transparent;
 }
 .ui-checkbox-on .ui-icon,
 .ui-radio-on .ui-icon {
@@ -1343,7 +1343,7 @@ a.ui-link-inherit {
 .ui-input-search.ui-focus {
 	-moz-box-shadow: 0px 0px 12px #8f8f8f /*{global-active-background-color}*/;
 	-webkit-box-shadow: 0px 0px 12px #8f8f8f /*{global-active-background-color}*/;
-	box-shadow: 0px 0px 12px #8f8f8f /*{global-active-background-color}*/;	
+	box-shadow: 0px 0px 12px #8f8f8f /*{global-active-background-color}*/;
 }
 
 /* unset box shadow in browsers that don't do it right
