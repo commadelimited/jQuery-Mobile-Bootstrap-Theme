@@ -14,7 +14,7 @@ Make your Bootstrap theme complete by using Font Awesome icons found in the [jQu
 
 [View a simple demo of this theme](http://andymatthews.net/code/jQuery-Mobile-Bootstrap-Theme/)
 
-![Swatches A - C](http://andymatthews.net/code/jQuery-Mobile-Bootstrap-Theme/swatches-A-C.png)
-![Swatches D - F](http://andymatthews.net/code/jQuery-Mobile-Bootstrap-Theme/swatches-D-F.png)
+![Swatches A - C](http://andymatthews.net/code/jQuery-Mobile-Bootstrap-Theme/swatches-A-C.png?)
+![Swatches D - F](http://andymatthews.net/code/jQuery-Mobile-Bootstrap-Theme/swatches-D-F.png?)
 
 &copy; Bootstrap
