@@ -8,7 +8,7 @@ This theme overrides the existing jQuery Mobile A - E swatches (and adds an F sw
 
 Make your Bootstrap theme complete by using Font Awesome icons found in the [jQuery Mobile Icon Pack](https://github.com/commadelimited/jQuery-Mobile-Icon-Pack).
 
-**Updated for jQuery Mobile 1.2!
+**Updated for jQuery Mobile 1.4!
 
 ## Example
 
