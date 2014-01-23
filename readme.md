@@ -17,4 +17,4 @@ Make your Bootstrap theme complete by using Font Awesome icons found in the [jQu
 ![Swatches A - C](http://andymatthews.net/code/jQuery-Mobile-Bootstrap-Theme/swatches-A-C.png?)
 ![Swatches D - F](http://andymatthews.net/code/jQuery-Mobile-Bootstrap-Theme/swatches-D-F.png?)
 
-&copy; Bootstrap
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/commadelimited/jquery-mobile-bootstrap-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
